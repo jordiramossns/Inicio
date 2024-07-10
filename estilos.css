@@ -1,0 +1,17 @@
+/* estilos.css */
+
+h1 {
+color: blue;
+font-family: 'Times New Roman', Times, serif;
+text-align: left;
+}
+h2 {
+color: brown;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h3 {
+color: green;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: right;
+}
